@@ -12,9 +12,9 @@ Build a beautiful portfolio using React
 
 
 ## Installation
-  Run npm i or use deployed link
+  Run npm i and then npm start to run locally or use deployed link
 
-Deployed:
+Deployed: https://cspitt99.github.io/react-portfolio/
 
 ## Usage
   N/A
